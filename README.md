@@ -35,7 +35,7 @@
 
 <div align='center'>
   <h1> Tools I am using for Penetration Testing: </h1>
-  <a> <img src='https://nmap.org/images/sitelogo-2x.png' width=50 height=50> </a>
+  <a> <img src='https://nmap.org/images/sitelogo-2x.png' width=100 height=80> </a>
   <a> <img src='' width= height=> </a>
   <a> <img src='' width= height=> </a>
   <a> <img src='' width= height=> </a>
