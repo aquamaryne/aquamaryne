@@ -30,3 +30,17 @@
   <a href='https://kali.org'> <img src='https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png' width=60 height=60> </a>
   <a href='https://archlinux.org'> <img src='https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png' width=200 height=60> </a>
 </div>
+
+</br>
+
+<div align='center'>
+  <h1> Tools I am using for Penetration Testing: </h1>
+  <a> <img src='https://nmap.org/images/sitelogo-2x.png' width=50 height=50> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+  <a> <img src='' width= height=> </a>
+</div>
