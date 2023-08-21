@@ -25,5 +25,5 @@
   <h1> Operation System: </h1>
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png' width=60 height=60> </a>
   <a href='https://kali.org'> <img src='https://w7.pngwing.com/pngs/274/372/png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo.png' width=90 height=90> </a>
-  <a href='https://archlinux.org'> <img src='https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png' width=150 height=80> </a>
+  <a href='https://archlinux.org'> <img src='https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png' width=200 height=80> </a>
 </div>
