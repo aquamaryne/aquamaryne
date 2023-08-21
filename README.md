@@ -6,7 +6,7 @@
 ### Dude who love OSINT 
 ### Dude who love Bug Bounty
 ### Dude who love Penetration Testing  
-<div align='right'> <img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' width=200 height=200> </div>
+<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200> 
 
 </br>
 </br>
