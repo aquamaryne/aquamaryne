@@ -5,7 +5,7 @@
 ### Dude who love programming  
 ### Dude who love OSINT
 <div align='right'>
-  ![hacker-hacker-man](https://github.com/aquamaryne/aquamaryne/assets/67910638/9c660038-8aeb-465d-abe9-eb963c240f88)
+  <img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif'>
 </div>
 ### Dude who love Bug Bounty
 ### Dude who love Penetration Testing  
