@@ -44,5 +44,5 @@
   <a> <img src='https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg' width=90 height=100> </a>
   <a> <img src='https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg' width=90 height=90> </a>
   <a> <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=90 height=100> </a>
-  <a> <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=60 height=80> </a>
+  <a> <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=70 height=80> </a>
 </div>
