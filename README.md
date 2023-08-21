@@ -39,7 +39,7 @@
   <a> <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=90 height=100> </a>
   <a> <img src='https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg' width=100 height=100> </a>
   <a> <img src='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg' width=80 height=80> </a>
-  <a> <img src='' width= height=> </a>
+  <a> <img src='https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg' width=100 height=50> </a>
   <a> <img src='' width= height=> </a>
   <a> <img src='' width= height=> </a>
   <a> <img src='' width= height=> </a>
