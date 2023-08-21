@@ -40,7 +40,7 @@
   <a> <img src='https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg' width=100 height=100> </a>
   <a> <img src='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg' width=80 height=80> </a>
   <a> <img src='https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg' width=90 height=100> </a>
-  <a> <img src='' width= height=> </a>
+  <a> <img src='https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg' width=90 height=90> </a>
   <a> <img src='' width= height=> </a>
   <a> <img src='' width= height=> </a>
 </div>
