@@ -24,4 +24,5 @@
 <div align='center'>
   <h1> Operation System: </h1>
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png' width=60 height=60> </a>
+  <a href='https://kali.org'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834' width=60 height=60> </a>
 </div>
