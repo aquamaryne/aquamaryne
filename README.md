@@ -1,9 +1,9 @@
 <div align='center'>
   <h1> Hi there, I am What Is Love </h1>
-  <p>  Dude who love programming  </p>
-  <p> Dude who love OSINT  </p>
-  <p> Dude who love Bug Bounty </p>
-  <p> Dude who love Penetration Testing </p> 
+  <p> <h2> Dude who love programming  </h2> </p>
+  <p> <h2> Dude who love OSINT </h2> </p>
+  <p> <h2> Dude who love Bug Bounty </h2> </p>
+  <p> <h2> Dude who love Penetration Testing </h2> </p> 
 </div>
 
 
