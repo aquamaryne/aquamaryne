@@ -11,5 +11,6 @@
   <a href='https://react.dev/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207' width=80 height=60> </a>
   <a href='https://www.mysql.com/'> <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' width=100 height=58> </a>
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png' width=60 height=60></a>
+  <a href='https://www.typescriptlang.org'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' width=60 height=60> </a>
 </div>
 
