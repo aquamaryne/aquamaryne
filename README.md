@@ -7,7 +7,7 @@
 ### Dude who love Bug Bounty
 ### Dude who love Penetration Testing  
 <div align='right'>
-  <img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' width=200 height=200>
+  <img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' width=200 height=200 style='margin-top: -1rem'>
 </div>
 
 </br>
