@@ -21,7 +21,7 @@
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png' width=48 height=60> </a>
   <a href='https://www.postman.com/'> <img src='https://www.svgrepo.com/show/354202/postman-icon.svg' width=60 height=60> </a>
   <a href='https://git-scm.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906' width=140 height=60> </a>
-  <a href='https://www.docker.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png?20161017201350' width=200 height=60> </a>
+  <a href='https://www.docker.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png?20161017201350' width=200 height=100> </a>
 </div>
 
 </br>
