@@ -4,9 +4,10 @@
 
 ### Dude who love programming  
 ### Dude who love OSINT 
+<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200> 
 ### Dude who love Bug Bounty
 ### Dude who love Penetration Testing  
-<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200 style='margin-top: -100px'> 
+
 
 </br>
 </br>
