@@ -20,7 +20,7 @@
   <a href=''> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" width=60 height=60> </a>
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png' width=48 height=60> </a>
   <a href='https://www.postman.com/'> <img src='https://www.svgrepo.com/show/354202/postman-icon.svg' width=60 height=60> </a>
-  <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906' width=60 height=60> </a>
+  <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906' width=100 height=60> </a>
   <a href=''> <img src=''> </a>
 </div>
 
