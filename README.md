@@ -1,7 +1,7 @@
 <div align='center'>
   <h1> Hi there, I am What Is Love </h1>
 </div>
-<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200 style="margin-top: -2rem;"> 
+<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200"> 
 
 ### Dude who love programming  
 ### Dude who love OSINT 
