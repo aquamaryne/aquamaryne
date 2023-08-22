@@ -32,6 +32,7 @@
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png' width=60 height=60> </a>
   <a href='https://kali.org'> <img src='https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png' width=60 height=60> </a>
   <a href='https://archlinux.org'> <img src='https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png' width=200 height=60> </a>
+  <a href='https://endeavouros.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EndeavourOS_Logo.svg/179px-EndeavourOS_Logo.svg.png?20210415145357' width=60 height=60></a>
 </div>
 
 </br>
