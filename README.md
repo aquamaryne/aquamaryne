@@ -1,7 +1,6 @@
 <div align='center'>
   <h1> Hi there, I am What Is Love </h1>
 </div>
-<img src='https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif' align='right' width=200 height=200"> 
 
 ### Dude who love programming  
 ### Dude who love OSINT 
@@ -10,7 +9,7 @@
 
 </br>
 </br>
-<div align='center'>
+<div>
   <h1> Tools I am using for web programming: </h1>
   <a href='https://nestjs.com'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png?20221211225055' width=60 height=60> </a>
   <a href='https://nodejs.org'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355' width=100 height=60> </a>
