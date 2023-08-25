@@ -17,11 +17,7 @@
   <a href='https://www.mysql.com/'> <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' width=100 height=58> </a>
   <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png' width=60 height=60'></a>
   <a href='https://www.typescriptlang.org'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' width=60 height=60> </a>
-  <a href=''> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" width=60 height=60> </a>
-  <a href=''> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png' width=48 height=60> </a>
-  <a href='https://www.postman.com/'> <img src='https://www.svgrepo.com/show/354202/postman-icon.svg' width=60 height=60> </a>
   <a href='https://git-scm.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906' width=140 height=60> </a>
-  <a href='https://www.docker.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png?20161017201350' width=200 height=60> </a>
 </div>
 
 </br>
