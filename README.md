@@ -30,16 +30,3 @@
   <a href='https://endeavouros.com/'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EndeavourOS_Logo.svg/179px-EndeavourOS_Logo.svg.png?20210415145357' width=70 height=70></a>
 </div>
 
-</br>
-
-<div align='center'>
-  <h1> Tools I am using for Penetration Testing: </h1>
-  <a> <img src='https://nmap.org/images/sitelogo-2x.png' width=120 height=80> </a>
-  <a> <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=90 height=100> </a>
-  <a> <img src='https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg' width=100 height=100> </a>
-  <a> <img src='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg' width=80 height=80> </a>
-  <a> <img src='https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg' width=90 height=100> </a>
-  <a> <img src='https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg' width=90 height=90> </a>
-  <a> <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=90 height=100> </a>
-  <a> <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=80 height=80> </a>
-</div>
