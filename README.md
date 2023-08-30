@@ -1,14 +1,4 @@
-<div align='center'>
-  <h1> Hi there, I am What Is Love </h1>
-</div>
 
-### Dude who love programming  
-### Dude who love OSINT 
-### Dude who love Bug Bounty
-### Dude who love Penetration Testing  
-
-</br>
-</br>
 <div>
   <h1 align="center"> Tools I am using for web programming: </h1>
   <a href='https://nestjs.com'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png?20221211225055' width=60 height=60> </a>
