@@ -1,3 +1,1 @@
-<div>
-  <img src="https://store.steampowered.com/app/2824660/Old_School_Rally/?l=ukrainian&cc=fr" alt="Old School"> 
-</div>
+![Old School](https://steamcdn-a.akamaihd.net/steam/apps/2824660/extras/some_gif_image.gif)
