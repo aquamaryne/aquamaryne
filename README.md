@@ -1,2 +1,2 @@
-![Old School Rally GIF](https://steamcdn-a.akamaihd.net/steam/apps/2824660/extras/some_gif_image.gif)
+![Old School Rally GIF](./taurus_view_loop.gif)
 
